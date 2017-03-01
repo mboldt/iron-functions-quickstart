@@ -30,7 +30,7 @@ $ fn init $USER/hello
 no supported files found to guess runtime, please set runtime explicitly with --runtime flag
 ```
 
-Okay, waht are the available runtimes?
+Okay, what are the available runtimes?
 
 
 ```
